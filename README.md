@@ -16,7 +16,7 @@ If you don't have Kafka installed locally, you can use Docker Compose to run Kaf
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Ismail-Ahrd/Saga-orchestration-kafka.git
+   git clone https://github.com/ELMILYASS/SAGA-Orchestration-Kafka.git
    ```
 2. Navigate to the root directory of the project
 3. Run Docker Compose to start Kafka:
